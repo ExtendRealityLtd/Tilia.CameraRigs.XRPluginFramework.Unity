@@ -1,20 +1,25 @@
 {
-    "name": "io.extendreality.tilia.{scope}.{feature}.{platform?}",
-    "displayName": "Tilia {scope}.{feature}.{platform?}",
-    "description": "{Description of feature.}",
+    "name": "io.extendreality.tilia.camerarigs.xrpluginframework.unity",
+    "displayName": "Tilia CameraRigs XRPluginFramework Unity",
+    "description": "A camera rig prefab utilizing the XR Plugin Framework for the Unity software.",
     "version": "1.0.0",
-    "unity": "2018.3",
-    "unityRelease": "10f1",
+    "unity": "2019.3",
+    "unityRelease": "0f1",
     "keywords": [
-        "pattern"
+        "pattern",
+        "camerarig",
+        "vr",
+        "ar",
+        "xr",
+        "spatial"
     ],
-    "homepage": "https://github.com/ExtendRealityLtd/Tilia.{scope}.{feature}.{platform?}/",
+    "homepage": "https://github.com/ExtendRealityLtd/Tilia.CameraRigs.XRPluginFramework.Unity/",
     "bugs": {
-        "url": "https://github.com/ExtendRealityLtd/Tilia.{scope}.{feature}.{platform?}/issues"
+        "url": "https://github.com/ExtendRealityLtd/Tilia.CameraRigs.XRPluginFramework.Unity/issues"
     },
     "repository": {
         "type": "git",
-        "url": "ssh://git@github.com/ExtendRealityLtd/Tilia.{scope}.{feature}.{platform?}.git"
+        "url": "ssh://git@github.com/ExtendRealityLtd/Tilia.CameraRigs.XRPluginFramework.Unity.git"
     },
     "license": "MIT",
     "author": {
@@ -23,7 +28,8 @@
         "url": "https://github.com/ExtendRealityLtd"
     },
     "dependencies": {
-        "io.extendreality.zinnia.unity": "X.Y.Z"
+        "io.extendreality.zinnia.unity": "1.31.1",
+        "com.unity.xr.management": "4.0.1"
     },
     "files": [
         "*.md",
@@ -31,6 +37,7 @@
         "*.asmdef",
         "*.xml",
         "Documentation",
-        "Runtime"
+        "Runtime",
+        "docfx.json"
     ]
 }
