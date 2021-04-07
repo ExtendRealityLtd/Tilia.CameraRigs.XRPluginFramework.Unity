@@ -18,9 +18,7 @@ The `CameraRigs.UnityXRPluginFramework` prefab provides a camera that tracks the
 
 ### Step 1
 
-Expand the `Tilia CameraRigs XRPluginFramework Unity` package directory in the Unity Project window and select then `Packages -> Tilia CameraRigs XRPluginFramework Unity -> Runtime -> Prefabs` directory then drag and drop the `CameraRigs.UnityXRPluginFramework` prefab into the Unity Hierarchy window.
-
-![Adding Prefab To Scene](assets/images/AddingPrefabToScene.png)
+Add a `CameraRigs.UnityXRPluginFramework` prefab to the Unity project hierarchy by selecting `GameObject -> Tilia -> Prefabs -> CameraRigs -> CameraRigs.UnityXRPluginFramework` from the Unity main top menu.
 
 ### Step 2
 
