@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.1.0](https://github.com/ExtendRealityLtd/Tilia.CameraRigs.XRPluginFramework.Unity/compare/v1.0.1...v1.1.0) (2021-04-07)
+
+#### Features
+
+* **Utility:** add prefab creator ([7aa6aff](https://github.com/ExtendRealityLtd/Tilia.CameraRigs.XRPluginFramework.Unity/commit/7aa6aff37a4b3157e0166128584a0f615e13c676))
+  > The latest version of Zinnia has the basis of a prefab creator that can be used to enable easy adding of prefabs to a scene without needing to drag and drop from directories. Instead a new menu item is added for quickly adding prefabs. The guide has been updated to accommodate this and the FodyWeavers.xml is now located in the root to serve both the Runtime and Editor scripts.
+
+#### Bug Fixes
+
+* **FodyWeavers:** add missing weaver file ([baa84f8](https://github.com/ExtendRealityLtd/Tilia.CameraRigs.XRPluginFramework.Unity/commit/baa84f8555b42e7d9eedd1ea329aa95acc7bb2d3))
+  > Whilst there is no definite need for a Fody Weaver file in this repo, it is worth adding it for consistency with other repos that have code.
+* **package.json:** add missing reference to Editor directory ([1981c9b](https://github.com/ExtendRealityLtd/Tilia.CameraRigs.XRPluginFramework.Unity/commit/1981c9b410a29bc5a05f06065c0da8cfd66eca3f))
+  > The build will fail without referencing this new Editor directory so it has now been added to the package.
+
 ### [1.0.1](https://github.com/ExtendRealityLtd/Tilia.CameraRigs.XRPluginFramework.Unity/compare/v1.0.0...v1.0.1) (2021-03-31)
 
 #### Miscellaneous Chores
