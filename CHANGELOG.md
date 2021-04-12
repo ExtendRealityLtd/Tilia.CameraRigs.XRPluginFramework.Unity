@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.1.1](https://github.com/ExtendRealityLtd/Tilia.CameraRigs.XRPluginFramework.Unity/compare/v1.1.0...v1.1.1) (2021-04-12)
+
+#### Bug Fixes
+
+* **README.md:** provide correct badge links ([2e98c34](https://github.com/ExtendRealityLtd/Tilia.CameraRigs.XRPluginFramework.Unity/commit/2e98c346d024d68e59f3016e49fd8a73280b3c67))
+  > The badge links were incorrect causing the badges to not display.
+
 ## [1.1.0](https://github.com/ExtendRealityLtd/Tilia.CameraRigs.XRPluginFramework.Unity/compare/v1.0.1...v1.1.0) (2021-04-07)
 
 #### Features
