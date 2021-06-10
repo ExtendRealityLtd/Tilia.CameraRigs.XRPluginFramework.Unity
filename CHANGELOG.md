@@ -1,5 +1,14 @@
 # Changelog
 
+### [1.1.4](https://github.com/ExtendRealityLtd/Tilia.CameraRigs.XRPluginFramework.Unity/compare/v1.1.3...v1.1.4) (2021-06-10)
+
+#### Miscellaneous Chores
+
+* **deps:** bump io.extendreality.zinnia.unity from 1.36.0 to 1.36.1 ([9bba019](https://github.com/ExtendRealityLtd/Tilia.CameraRigs.XRPluginFramework.Unity/commit/9bba0196303033317c6000e021ecea37ce9b6734))
+  > Bumps [io.extendreality.zinnia.unity](https://github.com/ExtendRealityLtd/Zinnia.Unity) from 1.36.0 to 1.36.1. - [Release notes](https://github.com/ExtendRealityLtd/Zinnia.Unity/releases) - [Changelog](https://github.com/ExtendRealityLtd/Zinnia.Unity/blob/master/CHANGELOG.md) - [Commits](https://github.com/ExtendRealityLtd/Zinnia.Unity/compare/v1.36.0...v1.36.1)
+* **README.md:** update title logo to related-media repo ([a81161c](https://github.com/ExtendRealityLtd/Tilia.CameraRigs.XRPluginFramework.Unity/commit/a81161cbc40f0265bcf1cde3fec18481ef833e91))
+  > The title logo is now located on the related-media repo.
+
 ### [1.1.3](https://github.com/ExtendRealityLtd/Tilia.CameraRigs.XRPluginFramework.Unity/compare/v1.1.2...v1.1.3) (2021-05-09)
 
 #### Miscellaneous Chores
