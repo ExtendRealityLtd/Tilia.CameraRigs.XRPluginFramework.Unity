@@ -1,0 +1,20 @@
+{
+    "name": "Tilia.CameraRigs.XRPluginFramework.Unity.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "Zinnia.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Malimbe.MemberChangeMethod.dll",
+        "Malimbe.PropertySerializationAttribute.dll",
+        "Malimbe.XmlDocumentationAttribute.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
