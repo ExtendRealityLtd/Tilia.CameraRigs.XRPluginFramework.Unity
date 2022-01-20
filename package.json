@@ -2,7 +2,7 @@
     "name": "io.extendreality.tilia.camerarigs.xrpluginframework.unity",
     "displayName": "Tilia CameraRigs XRPluginFramework Unity",
     "description": "A camera rig prefab utilizing the XR Plugin Framework for the Unity software.",
-    "version": "1.1.14",
+    "version": "1.2.0",
     "unity": "2019.3",
     "unityRelease": "0f1",
     "keywords": [
