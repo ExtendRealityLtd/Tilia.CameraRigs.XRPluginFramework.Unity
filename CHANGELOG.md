@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/ExtendRealityLtd/Tilia.CameraRigs.XRPluginFramework.Unity/compare/v1.3.1...v1.4.0) (2022-02-07)
+
+#### Features
+
+* **XRFrameworkNodeRecord:** simplify record by extending base class ([cd75453](https://github.com/ExtendRealityLtd/Tilia.CameraRigs.XRPluginFramework.Unity/commit/cd754533a594f9691df4f0086d04a8c87b9c4646))
+  > The XRFrameworkNodeRecord now extends the BaseDeviceDetailsRecord which handles many of the core functions so this class can be simplified.
+
 ### [1.3.1](https://github.com/ExtendRealityLtd/Tilia.CameraRigs.XRPluginFramework.Unity/compare/v1.3.0...v1.3.1) (2022-02-05)
 
 #### Miscellaneous Chores
