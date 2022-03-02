@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.0](https://github.com/ExtendRealityLtd/Tilia.CameraRigs.XRPluginFramework.Unity/compare/v1.4.1...v1.5.0) (2022-03-02)
+
+#### Features
+
+* **package.json:** add information urls to package ([cd87a27](https://github.com/ExtendRealityLtd/Tilia.CameraRigs.XRPluginFramework.Unity/commit/cd87a2714c6c4c6d93b06390284ec22e5ab818fe))
+  > The changelog, documentation and license url has been added to the package.json as these are used within the Unity package manager.
+
 ### [1.4.1](https://github.com/ExtendRealityLtd/Tilia.CameraRigs.XRPluginFramework.Unity/compare/v1.4.0...v1.4.1) (2022-02-14)
 
 #### Miscellaneous Chores
