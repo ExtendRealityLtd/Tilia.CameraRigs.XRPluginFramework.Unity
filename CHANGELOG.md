@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.0.0](https://github.com/ExtendRealityLtd/Tilia.CameraRigs.XRPluginFramework.Unity/compare/v1.5.2...v2.0.0) (2022-04-28)
+
+#### :warning: BREAKING CHANGES :warning:
+
+* **Malimbe:** This removes the last remaining elements of Malimbe and whilst it does not cause any breaking changes within this package, it removes Malimbe as a dependency which other projects that rely on this package may piggy back off this Malimbe dependency so it will break any project like that.
+
+All of the previous functionality from Malimbe has been replicated in standard code without the need for it to be weaved by the Malimbe helper tags. ([96406d3](https://github.com/ExtendRealityLtd/Tilia.CameraRigs.XRPluginFramework.Unity/commit/96406d30b97138cf01648db04efb804d5c7d24c0))
+
+#### Features
+
+* **Malimbe:** remove malimbe dependency ([96406d3](https://github.com/ExtendRealityLtd/Tilia.CameraRigs.XRPluginFramework.Unity/commit/96406d30b97138cf01648db04efb804d5c7d24c0))
+
 ### [1.5.2](https://github.com/ExtendRealityLtd/Tilia.CameraRigs.XRPluginFramework.Unity/compare/v1.5.1...v1.5.2) (2022-03-15)
 
 #### Miscellaneous Chores
