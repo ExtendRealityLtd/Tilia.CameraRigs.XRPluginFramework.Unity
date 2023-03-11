@@ -32,6 +32,8 @@ namespace Tilia.CameraRigs.XRPluginFramework
         public override XRNode XRNodeType { get { return NodeType; } protected set { NodeType = value; } }
         /// <inheritdoc/>
         public override int Priority { get => 0; protected set => throw new System.NotImplementedException(); }
+        /// <inheritdoc/>
+        public override bool HasPassThroughCamera { get => false; protected set => throw new System.NotImplementedException(); }
 
         /// <summary>
         /// Sets the <see cref="NodeType"/>.
